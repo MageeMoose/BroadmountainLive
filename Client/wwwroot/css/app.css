@@ -32,10 +32,24 @@ a:hover{
     background-color: #20c997;
 }
 
-.homeContent{
+.homeContent {
     width: 800px;
     height: 700px;
-    background-color: #0dcaf0;
+    
+
+}
+
+.textBox{
+    margin-top: 200px;
+    width: 80%;
+    padding-left: 25px;
+    padding-right: 25px;
+    background: rgba(241,237,201);
+    border-radius: 15px;
+    border-style: solid;
+    border-width: 15px;
+    border-color: #664402;
+
 }
 
 h1:focus {

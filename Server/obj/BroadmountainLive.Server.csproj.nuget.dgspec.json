@@ -1,33 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Server/BroadmountainLive.Server.csproj": {}
+    "C:\\Users\\magnu\\source\\repos\\MageeMoose\\BroadmountainLive\\Server\\BroadmountainLive.Server.csproj": {}
   },
   "projects": {
-    "/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Client/BroadmountainLive.Client.csproj": {
+    "C:\\Users\\magnu\\source\\repos\\MageeMoose\\BroadmountainLive\\Client\\BroadmountainLive.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Client/BroadmountainLive.Client.csproj",
+        "projectUniqueName": "C:\\Users\\magnu\\source\\repos\\MageeMoose\\BroadmountainLive\\Client\\BroadmountainLive.Client.csproj",
         "projectName": "BroadmountainLive.Client",
-        "projectPath": "/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Client/BroadmountainLive.Client.csproj",
-        "packagesPath": "/home/mageemoose/.nuget/packages/",
-        "outputPath": "/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Client/obj/",
+        "projectPath": "C:\\Users\\magnu\\source\\repos\\MageeMoose\\BroadmountainLive\\Client\\BroadmountainLive.Client.csproj",
+        "packagesPath": "C:\\Users\\magnu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\magnu\\source\\repos\\MageeMoose\\BroadmountainLive\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/mageemoose/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\magnu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Shared/BroadmountainLive.Shared.csproj": {
-                "projectPath": "/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Shared/BroadmountainLive.Shared.csproj"
+              "C:\\Users\\magnu\\source\\repos\\MageeMoose\\BroadmountainLive\\Shared\\BroadmountainLive.Shared.csproj": {
+                "projectPath": "C:\\Users\\magnu\\source\\repos\\MageeMoose\\BroadmountainLive\\Shared\\BroadmountainLive.Shared.csproj"
               }
             }
           }
@@ -48,6 +50,28 @@
             },
             "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
               "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[6.0.7, )"
             }
@@ -73,7 +97,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
@@ -82,33 +106,35 @@
         }
       }
     },
-    "/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Server/BroadmountainLive.Server.csproj": {
+    "C:\\Users\\magnu\\source\\repos\\MageeMoose\\BroadmountainLive\\Server\\BroadmountainLive.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Server/BroadmountainLive.Server.csproj",
+        "projectUniqueName": "C:\\Users\\magnu\\source\\repos\\MageeMoose\\BroadmountainLive\\Server\\BroadmountainLive.Server.csproj",
         "projectName": "BroadmountainLive.Server",
-        "projectPath": "/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Server/BroadmountainLive.Server.csproj",
-        "packagesPath": "/home/mageemoose/.nuget/packages/",
-        "outputPath": "/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Server/obj/",
+        "projectPath": "C:\\Users\\magnu\\source\\repos\\MageeMoose\\BroadmountainLive\\Server\\BroadmountainLive.Server.csproj",
+        "packagesPath": "C:\\Users\\magnu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\magnu\\source\\repos\\MageeMoose\\BroadmountainLive\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/mageemoose/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\magnu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Client/BroadmountainLive.Client.csproj": {
-                "projectPath": "/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Client/BroadmountainLive.Client.csproj"
+              "C:\\Users\\magnu\\source\\repos\\MageeMoose\\BroadmountainLive\\Client\\BroadmountainLive.Client.csproj": {
+                "projectPath": "C:\\Users\\magnu\\source\\repos\\MageeMoose\\BroadmountainLive\\Client\\BroadmountainLive.Client.csproj"
               },
-              "/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Shared/BroadmountainLive.Shared.csproj": {
-                "projectPath": "/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Shared/BroadmountainLive.Shared.csproj"
+              "C:\\Users\\magnu\\source\\repos\\MageeMoose\\BroadmountainLive\\Shared\\BroadmountainLive.Shared.csproj": {
+                "projectPath": "C:\\Users\\magnu\\source\\repos\\MageeMoose\\BroadmountainLive\\Shared\\BroadmountainLive.Shared.csproj"
               }
             }
           }
@@ -124,6 +150,28 @@
           "targetAlias": "net6.0",
           "dependencies": {
             "Microsoft.AspNetCore.Components.WebAssembly.Server": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[6.0.7, )"
             }
@@ -146,26 +194,28 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Shared/BroadmountainLive.Shared.csproj": {
+    "C:\\Users\\magnu\\source\\repos\\MageeMoose\\BroadmountainLive\\Shared\\BroadmountainLive.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Shared/BroadmountainLive.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\magnu\\source\\repos\\MageeMoose\\BroadmountainLive\\Shared\\BroadmountainLive.Shared.csproj",
         "projectName": "BroadmountainLive.Shared",
-        "projectPath": "/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Shared/BroadmountainLive.Shared.csproj",
-        "packagesPath": "/home/mageemoose/.nuget/packages/",
-        "outputPath": "/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Shared/obj/",
+        "projectPath": "C:\\Users\\magnu\\source\\repos\\MageeMoose\\BroadmountainLive\\Shared\\BroadmountainLive.Shared.csproj",
+        "packagesPath": "C:\\Users\\magnu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\magnu\\source\\repos\\MageeMoose\\BroadmountainLive\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/mageemoose/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\magnu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -183,6 +233,30 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -198,7 +272,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

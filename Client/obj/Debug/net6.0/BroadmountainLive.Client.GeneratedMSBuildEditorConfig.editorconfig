@@ -11,45 +11,45 @@ build_property.EnableTrimAnalyzer = true
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = BroadmountainLive.Client
 build_property.RootNamespace = BroadmountainLive.Client
-build_property.ProjectDir = /home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Client/
+build_property.ProjectDir = C:\Users\magnu\source\repos\MageeMoose\BroadmountainLive\Client\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Client
+build_property.MSBuildProjectDirectory = C:\Users\magnu\source\repos\MageeMoose\BroadmountainLive\Client
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Client/App.razor]
+[C:/Users/magnu/source/repos/MageeMoose/BroadmountainLive/Client/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Client/Pages/AboutMe.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWJvdXRNZS5yYXpvcg==
+[C:/Users/magnu/source/repos/MageeMoose/BroadmountainLive/Client/Pages/AboutMe.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXRNZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Client/Pages/Cv.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ3YucmF6b3I=
+[C:/Users/magnu/source/repos/MageeMoose/BroadmountainLive/Client/Pages/Cv.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3YucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Client/Pages/Index.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+[C:/Users/magnu/source/repos/MageeMoose/BroadmountainLive/Client/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Client/Pages/Projects.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvamVjdHMucmF6b3I=
+[C:/Users/magnu/source/repos/MageeMoose/BroadmountainLive/Client/Pages/Projects.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvamVjdHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Client/Pages/SkillsAndCerts.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2tpbGxzQW5kQ2VydHMucmF6b3I=
+[C:/Users/magnu/source/repos/MageeMoose/BroadmountainLive/Client/Pages/SkillsAndCerts.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2tpbGxzQW5kQ2VydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Client/_Imports.razor]
+[C:/Users/magnu/source/repos/MageeMoose/BroadmountainLive/Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Client/Shared/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-po5x80jxwz
+[C:/Users/magnu/source/repos/MageeMoose/BroadmountainLive/Client/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-3n0nkl5qzy
 
-[/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Client/Shared/NavMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-jswgqgr69v
+[C:/Users/magnu/source/repos/MageeMoose/BroadmountainLive/Client/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-yu2d8s0t4g

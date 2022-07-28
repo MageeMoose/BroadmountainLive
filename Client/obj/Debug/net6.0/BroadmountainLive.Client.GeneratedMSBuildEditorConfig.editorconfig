@@ -22,20 +22,24 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Client/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
+[/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Client/Pages/AboutMe.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWJvdXRNZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Client/Pages/FetchData.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmV0Y2hEYXRhLnJhem9y
+[/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Client/Pages/Cv.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ3YucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Client/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Client/Shared/SurveyPrompt.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
+[/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Client/Pages/Projects.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvamVjdHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Client/Pages/SkillsAndCerts.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2tpbGxzQW5kQ2VydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Client/_Imports.razor]

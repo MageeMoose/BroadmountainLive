@@ -1,11 +1,23 @@
+global using BroadmountainLive.Server.Data;
+global using BroadmountainLive.Server.Services.NavImageService;
+global using BroadmountainLive.Shared;
+global using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.ResponseCompression;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
+builder.Services.AddDbContext<DataContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages();
+
+builder.Services.AddEndpointsApiExplorer();
+
+builder.Services.AddScoped<INavImageService, NavImageService>();
 
 var app = builder.Build();
 

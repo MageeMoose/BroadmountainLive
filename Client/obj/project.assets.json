@@ -13849,32 +13849,34 @@
     ]
   },
   "packageFolders": {
-    "/home/mageemoose/.nuget/packages/": {}
+    "C:\\Users\\magnu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Client/BroadmountainLive.Client.csproj",
+      "projectUniqueName": "D:\\Dev\\CSharp\\BroadmountainLive\\Client\\BroadmountainLive.Client.csproj",
       "projectName": "BroadmountainLive.Client",
-      "projectPath": "/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Client/BroadmountainLive.Client.csproj",
-      "packagesPath": "/home/mageemoose/.nuget/packages/",
-      "outputPath": "/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Client/obj/",
+      "projectPath": "D:\\Dev\\CSharp\\BroadmountainLive\\Client\\BroadmountainLive.Client.csproj",
+      "packagesPath": "C:\\Users\\magnu\\.nuget\\packages\\",
+      "outputPath": "D:\\Dev\\CSharp\\BroadmountainLive\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/mageemoose/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\magnu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Shared/BroadmountainLive.Shared.csproj": {
-              "projectPath": "/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Shared/BroadmountainLive.Shared.csproj"
+            "D:\\Dev\\CSharp\\BroadmountainLive\\Shared\\BroadmountainLive.Shared.csproj": {
+              "projectPath": "D:\\Dev\\CSharp\\BroadmountainLive\\Shared\\BroadmountainLive.Shared.csproj"
             }
           }
         }
@@ -13942,7 +13944,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

@@ -1,3 +1,4 @@
+using System.Net.Http.Json;
 using BroadmountainLive.Shared;
 
 namespace BroadmountainLive.Client.Services.NavImageService;
@@ -12,9 +13,11 @@ public class NavImageService : INavImageService
     }
 
 
-    public List<NavImage> NavImages { get; set; }
-    public Task GetNavigationImages()
+    public List<NavImage> NavImages { get; set; } = new List<NavImage>();
+    public async Task GetNavigationImages()
     {
-        throw new NotImplementedException();
+        var result = await _http.GetFromJsonAsync<ServiceResponse<List<NavImage>>>("api/navImage");
+       if (result != null && result.Data != null)
+           NavImages = result.Data;
     }
 }

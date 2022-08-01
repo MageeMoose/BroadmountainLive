@@ -43,6 +43,9 @@ namespace BroadmountainLive.Server.Migrations
                     b.Property<bool>("IsExt")
                         .HasColumnType("bit");
 
+                    b.Property<bool>("IsMainNav")
+                        .HasColumnType("bit");
+
                     b.Property<bool>("IsSign")
                         .HasColumnType("bit");
 
@@ -69,6 +72,7 @@ namespace BroadmountainLive.Server.Migrations
                             Delay = 0,
                             ImgUrl = "BroadmountainLive/Client/wwwroot/images/About me.png",
                             IsExt = false,
+                            IsMainNav = false,
                             IsSign = false,
                             IsTopNav = false,
                             PathName = "/aboutme",
@@ -81,6 +85,7 @@ namespace BroadmountainLive.Server.Migrations
                             Delay = 0,
                             ImgUrl = "BroadmountainLive/Client/wwwroot/images/Cv.png",
                             IsExt = false,
+                            IsMainNav = false,
                             IsSign = false,
                             IsTopNav = false,
                             PathName = "/cv",
@@ -93,6 +98,7 @@ namespace BroadmountainLive.Server.Migrations
                             Delay = 0,
                             ImgUrl = "BroadmountainLive/Client/wwwroot/images/Projects.png",
                             IsExt = false,
+                            IsMainNav = false,
                             IsSign = false,
                             IsTopNav = false,
                             PathName = "/project",
@@ -105,6 +111,7 @@ namespace BroadmountainLive.Server.Migrations
                             Delay = 0,
                             ImgUrl = "BroadmountainLive/Client/wwwroot/images/Skills.png",
                             IsExt = false,
+                            IsMainNav = false,
                             IsSign = false,
                             IsTopNav = false,
                             PathName = "/skillsandcerts",
@@ -117,6 +124,7 @@ namespace BroadmountainLive.Server.Migrations
                             Delay = 0,
                             ImgUrl = "BroadmountainLive/Client/wwwroot/images/GitHub.png",
                             IsExt = true,
+                            IsMainNav = false,
                             IsSign = false,
                             IsTopNav = false,
                             PathName = "https://github.com/MageeMoose",
@@ -129,6 +137,7 @@ namespace BroadmountainLive.Server.Migrations
                             Delay = 0,
                             ImgUrl = "BroadmountainLive/Client/wwwroot/images/Linkedin.png",
                             IsExt = true,
+                            IsMainNav = false,
                             IsSign = false,
                             IsTopNav = false,
                             PathName = "https://www.linkedin.com/in/magnus-bredberg-b3684121/",

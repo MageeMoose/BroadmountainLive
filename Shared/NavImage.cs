@@ -17,5 +17,6 @@ namespace BroadmountainLive.Shared
         public bool IsSign { get; set; }
         public bool IsTopNav { get; set; }
         public int Delay { get; set; }
+        public bool  IsMainNav { get; set; }
     }
 }

@@ -1,35 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dev\\CSharp\\BroadmountainLive\\Server\\BroadmountainLive.Server.csproj": {}
+    "/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Server/BroadmountainLive.Server.csproj": {}
   },
   "projects": {
-    "D:\\Dev\\CSharp\\BroadmountainLive\\Client\\BroadmountainLive.Client.csproj": {
+    "/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Client/BroadmountainLive.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dev\\CSharp\\BroadmountainLive\\Client\\BroadmountainLive.Client.csproj",
+        "projectUniqueName": "/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Client/BroadmountainLive.Client.csproj",
         "projectName": "BroadmountainLive.Client",
-        "projectPath": "D:\\Dev\\CSharp\\BroadmountainLive\\Client\\BroadmountainLive.Client.csproj",
-        "packagesPath": "C:\\Users\\magnu\\.nuget\\packages\\",
-        "outputPath": "D:\\Dev\\CSharp\\BroadmountainLive\\Client\\obj\\",
+        "projectPath": "/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Client/BroadmountainLive.Client.csproj",
+        "packagesPath": "/home/mageemoose/.nuget/packages/",
+        "outputPath": "/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Client/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\magnu\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/mageemoose/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Dev\\CSharp\\BroadmountainLive\\Shared\\BroadmountainLive.Shared.csproj": {
-                "projectPath": "D:\\Dev\\CSharp\\BroadmountainLive\\Shared\\BroadmountainLive.Shared.csproj"
+              "/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Shared/BroadmountainLive.Shared.csproj": {
+                "projectPath": "/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Shared/BroadmountainLive.Shared.csproj"
               }
             }
           }
@@ -97,7 +95,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
@@ -106,35 +104,33 @@
         }
       }
     },
-    "D:\\Dev\\CSharp\\BroadmountainLive\\Server\\BroadmountainLive.Server.csproj": {
+    "/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Server/BroadmountainLive.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dev\\CSharp\\BroadmountainLive\\Server\\BroadmountainLive.Server.csproj",
+        "projectUniqueName": "/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Server/BroadmountainLive.Server.csproj",
         "projectName": "BroadmountainLive.Server",
-        "projectPath": "D:\\Dev\\CSharp\\BroadmountainLive\\Server\\BroadmountainLive.Server.csproj",
-        "packagesPath": "C:\\Users\\magnu\\.nuget\\packages\\",
-        "outputPath": "D:\\Dev\\CSharp\\BroadmountainLive\\Server\\obj\\",
+        "projectPath": "/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Server/BroadmountainLive.Server.csproj",
+        "packagesPath": "/home/mageemoose/.nuget/packages/",
+        "outputPath": "/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Server/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\magnu\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/mageemoose/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Dev\\CSharp\\BroadmountainLive\\Client\\BroadmountainLive.Client.csproj": {
-                "projectPath": "D:\\Dev\\CSharp\\BroadmountainLive\\Client\\BroadmountainLive.Client.csproj"
+              "/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Client/BroadmountainLive.Client.csproj": {
+                "projectPath": "/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Client/BroadmountainLive.Client.csproj"
               },
-              "D:\\Dev\\CSharp\\BroadmountainLive\\Shared\\BroadmountainLive.Shared.csproj": {
-                "projectPath": "D:\\Dev\\CSharp\\BroadmountainLive\\Shared\\BroadmountainLive.Shared.csproj"
+              "/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Shared/BroadmountainLive.Shared.csproj": {
+                "projectPath": "/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Shared/BroadmountainLive.Shared.csproj"
               }
             }
           }
@@ -174,6 +170,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[6.0.7, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
             }
           },
           "imports": [
@@ -194,28 +194,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Dev\\CSharp\\BroadmountainLive\\Shared\\BroadmountainLive.Shared.csproj": {
+    "/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Shared/BroadmountainLive.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dev\\CSharp\\BroadmountainLive\\Shared\\BroadmountainLive.Shared.csproj",
+        "projectUniqueName": "/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Shared/BroadmountainLive.Shared.csproj",
         "projectName": "BroadmountainLive.Shared",
-        "projectPath": "D:\\Dev\\CSharp\\BroadmountainLive\\Shared\\BroadmountainLive.Shared.csproj",
-        "packagesPath": "C:\\Users\\magnu\\.nuget\\packages\\",
-        "outputPath": "D:\\Dev\\CSharp\\BroadmountainLive\\Shared\\obj\\",
+        "projectPath": "/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Shared/BroadmountainLive.Shared.csproj",
+        "packagesPath": "/home/mageemoose/.nuget/packages/",
+        "outputPath": "/home/mageemoose/Desktop/Dev/CSharp/BroadmountainLive/Shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\magnu\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/mageemoose/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -272,7 +270,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
         }
       }
     }

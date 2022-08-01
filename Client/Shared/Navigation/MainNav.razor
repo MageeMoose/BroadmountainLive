@@ -1,0 +1,48 @@
+@inject HttpClient Http
+
+<div class="row">
+    @foreach (var navImage in _navImages)
+    {
+        if (navImage.IsMainNav && navImage.IsExt == false)
+        { <div class="mainNavImage">
+              <NavLink href="@navImage.PathName">
+               
+                  <img class="mainNavImgAnimation" src="@navImage.ImgUrl" alt="@navImage.AltText" />                
+               
+              </NavLink>
+          </div>
+        }
+        else if (navImage.IsMainNav && navImage.IsExt)
+        {
+            <div class="mainNavImage">
+                <a href="@navImage.PathName" target="_blank" rel="noreferrer">
+                    <img class="mainNavImgAnimation" src="@navImage.ImgUrl" alt="@navImage.AltText"/>
+                </a>
+            </div>
+        }
+    }
+    
+</div>
+
+@code
+{
+    private NavImage[] _navImages;
+    protected override async Task OnInitializedAsync()
+    {
+        _navImages = await Http.GetFromJsonAsync<NavImage[]>("Data/NavImages.json");
+    }
+    
+    public class NavImage
+    {
+        
+        public string ImgUrl { get; set; } = string.Empty;
+        public string PathName { get; set; } = string.Empty;
+        public string AltText { get; set; } = string.Empty;
+        public string Text { get; set; } = string.Empty;
+        public bool IsExt { get; set; }
+        public bool IsSign { get; set; }
+        public bool IsTopNav { get; set; }
+        public int Delay { get; set; }
+        public bool  IsMainNav { get; set; }
+    }
+}

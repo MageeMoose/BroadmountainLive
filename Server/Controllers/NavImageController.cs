@@ -1,7 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
 namespace BroadmountainLive.Server.Controllers
-{
+{   
+    [Route("api/[controller]")]
+    [ApiController]
     public class NavImageController : ControllerBase
     {
         private readonly INavImageService _navImageService;

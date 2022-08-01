@@ -1,0 +1,69 @@
+[
+  {
+    "ImgUrl": "images/About me.png",
+    "IsExt": false,
+    "IsSign":false,
+    "IsTopNav": false,
+    "IsMainNav": true,
+    "AltText" : "",
+    "PathName":"/aboutme",
+    "Delay": 0,
+    "Text": ""
+  },
+  {
+    "ImgUrl": "images/CV.png",
+    "IsExt": false,
+    "IsSign":false,
+    "IsTopNav": false,
+    "IsMainNav": true,
+    "AltText" : "",
+    "PathName":"/Cv",
+    "Delay": 0,
+    "Text": ""
+  },
+  {
+    "ImgUrl": "images/Skills.png",
+    "IsExt": false,
+    "IsSign":false,
+    "IsTopNav": false,
+    "IsMainNav": true,
+    "AltText" : "",
+    "PathName":"/SkillsAndCerts",
+    "Delay": 0,
+    "Text": ""
+  },
+  {
+    "ImgUrl": "images/Projects.png",
+    "IsExt": false,
+    "IsSign":false,
+    "IsTopNav": false,
+    "IsMainNav": true,
+    "AltText" : "",
+    "PathName":"/Projects",
+    "Delay": 0,
+    "Text": ""
+  },
+  {
+    "ImgUrl": "images/GitHub.png",
+    "IsExt": true,
+    "IsSign":false,
+    "IsTopNav": false,
+    "IsMainNav": true,
+    "AltText" : "",
+    "PathName":"https://github.com/MageeMoose",
+    "Delay": 0,
+    "Text": ""
+  },
+  {
+    "ImgUrl": "images/Linkedin.png",
+    "IsExt": true,
+    "IsSign":false,
+    "IsTopNav": false,
+    "IsMainNav": true,
+    "AltText" : "",
+    "PathName":"https://www.linkedin.com/in/magnus-bredberg-b3684121/",
+    "Delay": 0,
+    "Text": ""
+  }
+  
+]

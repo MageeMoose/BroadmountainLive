@@ -29,7 +29,15 @@ a:hover{
 .cogAnimation{
     width: 700px;
     height: 700px;
-    background-color: #20c997;
+    animation: cogEntrance 8s;
+}
+
+@keyframes cogEntrance {
+    from {left: -800px}
+    to {left: -400px}
+    
+        
+    
 }
 
 .homeContent {

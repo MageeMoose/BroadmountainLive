@@ -16,7 +16,7 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="6.0.7" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.7" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.7" />
-    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.3.1" />
   </ItemGroup>
 
   <ItemGroup>
@@ -27,6 +27,26 @@
   <ItemGroup>
     <Folder Include="Components" />
     <Folder Include="Data\" />
+    <Folder Include="Pages\Shared" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="Blazorserver\Pages\Error.cshtml" />
+    <_ContentIncludedByDefault Remove="Blazorserver\Pages\_Host.cshtml" />
+    <_ContentIncludedByDefault Remove="Blazorserver\Pages\_Layout.cshtml" />
+    <_ContentIncludedByDefault Remove="Blazorserver\App.razor" />
+    <_ContentIncludedByDefault Remove="Blazorserver\Pages\Counter.razor" />
+    <_ContentIncludedByDefault Remove="Blazorserver\Pages\FetchData.razor" />
+    <_ContentIncludedByDefault Remove="Blazorserver\Pages\Index.razor" />
+    <_ContentIncludedByDefault Remove="Blazorserver\Shared\MainLayout.razor" />
+    <_ContentIncludedByDefault Remove="Blazorserver\Shared\NavMenu.razor" />
+    <_ContentIncludedByDefault Remove="Blazorserver\Shared\SurveyPrompt.razor" />
+    <_ContentIncludedByDefault Remove="Blazorserver\_Imports.razor" />
+    <_ContentIncludedByDefault Remove="Blazorserver\appsettings.Development.json" />
+    <_ContentIncludedByDefault Remove="Blazorserver\appsettings.json" />
+    <_ContentIncludedByDefault Remove="Blazorserver\obj\Blazorserver.csproj.nuget.dgspec.json" />
+    <_ContentIncludedByDefault Remove="Blazorserver\obj\project.assets.json" />
+    <_ContentIncludedByDefault Remove="Blazorserver\Properties\launchSettings.json" />
   </ItemGroup>
 
 
